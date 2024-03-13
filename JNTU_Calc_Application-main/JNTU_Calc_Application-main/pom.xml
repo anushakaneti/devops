@@ -21,6 +21,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.projectKey>calculator</sonar.projectKey>
 		<sonar.language>java</sonar.language>
+		ghuggj
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login>paste your token here</sonar.login>
 
